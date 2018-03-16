@@ -48,6 +48,13 @@ Comparativa de las fotos tomadas de los distintos celulares en circunstancias ig
 > Escrito Por [Yadiel Ficachi](https://github.com/YadielFicachi/).
 >
 
-| Column 1 | Column 2 | Column 1 | Column 2 |
-|:--------:| -------------:|:--------:| -------------:|
-| ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) |
+| Celular | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+|:--------:| :-------------:|:--------:| :-------------:|:-------------:|
+| Alcatel Pixi 4 5.5" (5012G) | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Moto G5 | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Moto G4 Play | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Lenovo Vibe K5 | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Huawei gr3 TAG-L13 | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Moto X | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Samsung Galaxy Core 2 | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
+| Samsung Galaxy SM-J700M | Poca Luz sin Flash | Poca Luz con flash | Buena Luz Sin Flash | Buena Luz Con Flash |
