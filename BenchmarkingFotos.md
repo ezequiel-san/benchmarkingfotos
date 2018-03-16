@@ -46,3 +46,8 @@ Comparativa de las fotos tomadas de los distintos celulares en circunstancias ig
 
 
 > Escrito Por [Yadiel Ficachi](https://github.com/YadielFicachi/).
+>
+
+| Column 1 | Column 2 | Column 1 | Column 2 |
+|:--------:| -------------:|:--------:| -------------:|
+| ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) | ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29257545_10208710027428517_6284666326719922176_n.jpg?oh=389eb24764c6b17248fc8b04e610c38a&oe=5B3C79A3) |
