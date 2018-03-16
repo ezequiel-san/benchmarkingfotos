@@ -1,6 +1,6 @@
 # Benchmarking de Fotos, tomadas de los distintos celulares en circunstancias iguales.
-# Alcatel Pixi 4 5.5" (5012G)
-## Foto con poca luminosidad sin flash
+## Alcatel Pixi 4 5.5" (5012G)
+### Foto con poca luminosidad sin flash
 ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29243721_1557692844286675_2065481280526483456_n.jpg?oh=7061ce350d01d78e84331ea7c191d458&oe=5B401941)
 ## Foto con poca luminosidad con flash
 ![enter image description here](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29249241_1557693757619917_110971131611054080_n.jpg?oh=e78d22cbb2b5fd90df603066a3a7b584&oe=5B41E0D8)
