@@ -1,4 +1,8 @@
 # Alcatel Pixi 4 5.5" (5012G)
+## Foto con poca luminosidad sin flash
+## Foto con poca luminosidad con flash
+## Foto con buena luminosidad sin flash
+## Foto con buena luminosidad con flash
 
 # Moto G4 Play
 
